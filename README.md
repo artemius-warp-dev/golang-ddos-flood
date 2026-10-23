@@ -19,7 +19,7 @@ Any pull requests are welcome.
 
 ## Authors
 
-* **Artem Salagaev** - https://github.com/ArtemGits
+* **Artem Salagaev** - https://github.com/artemius-warp-dev
 
 ## License
 
